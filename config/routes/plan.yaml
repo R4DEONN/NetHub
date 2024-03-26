@@ -1,0 +1,4 @@
+get_plans_page:
+  path: /
+  controller: App\Controller\PlanController::getPlanListPage
+  methods: GET
